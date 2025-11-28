@@ -4,10 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning)](https://git.io/typing-svg)
 
-## 👨‍💻 About Me
-
-I love to code
-
 - 🔭 I'm currently working on **Start Up AI tax calculatopr **
 - 🌱 I'm currently learning **Machine learning and AI**
 - 👯 I'm looking to collaborate on **Open source projects**
@@ -36,16 +32,17 @@ I love to code
 
 ## 📊 GitHub Stats
 
-![Hashim Reyhan Chill's GitHub stats](https://github-readme-stats.vercel.app/api?username=reyhanchill&show_icons=true&theme=default)
+![Hashim Reyhan Chill's GitHub stats](https://github-readme-stats.vercel.app/api?username=reyhanchill&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyhanchill&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyhanchill&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reyhanchill&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reyhanchill&theme=tokyonight)
 
 ---
 
 <p align="center">💼 Looking for opportunities to create amazing things!</p>
 <p align="center">⭐️ From [reyhanchill](https://github.com/reyhanchill)</p>
+
 
 <!--
 **reyhanchill/reyhanchill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
